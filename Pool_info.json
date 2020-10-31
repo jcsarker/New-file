@@ -1,0 +1,59 @@
+{
+    "info": {
+        "url_png_logo": "https://spectrumx.com/wp-content/uploads/2020/08/spectrum-updated-logo.png",
+        "location": "Oregon, USA",
+        "social": {
+            "twitter_handle": "@jonycsarker",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "SpectrumX Validator Service LLC",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "Us": "SpectrumX Validator node focused on building and operating 24x7 node service to the Proof of Stake base Blockchain Infrastructures. We have a firm commitment to integrity of vision and promise to only run and promote infrastructure for projects we believe help the cause of decentralization and push the space forward",
+            "Hardware": "Intel® Core™ i9-10900X Processor (10-Core 3.70 GHz /19.25MB L3 Cache); NVIDIA GeForce RTX 2080 SUPER - 8GB GDDR6;ASUS Prime X299-A II - ARGB  Server Motherboard; 32 GB [16 GB x2] DDR4-3000 Memory Module - Certified Major Brand Gaming Memory",
+            "company": ""
+        },
+        "rss": "https://jonbuet.wixsite.com/mysite"
+    },
+    "my-pool-ids": {
+        "0": "859616e463fedd371ffed17a00277b62a13573ab0d46511eb75af564",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    },
+    "": {
+        "prometheus": {
+            "0": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "1": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "2": {
+                "name": "",
+                "type": "",
+                "key": ""
+            }
+        }
+    }
+}
